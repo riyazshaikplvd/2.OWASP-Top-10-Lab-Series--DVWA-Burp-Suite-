@@ -731,18 +731,6 @@ owasp-top10-lab/
 ✅ Practiced all 4 DVWA levels for each attack
 ```
 
----
-
-## 🎤 How to Explain in Interview
-
-> *"I set up DVWA locally and used Burp Suite to practice
-> OWASP Top 10 vulnerabilities hands-on.
-> For each vulnerability I practiced all difficulty levels —
-> Low, Medium, and High — and studied the Impossible level
-> to understand the correct secure code.
-> I documented every attack with steps, payloads, and fixes."*
-
----
 
 ## ⚠️ Legal Disclaimer
 
